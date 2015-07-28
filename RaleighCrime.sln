@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaleighCrimeTests", "Raleig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaleighCrimeConsole", "RaleighCrimeConsole\RaleighCrimeConsole.csproj", "{8595B5A1-803A-4749-B8AD-F2EA28565F5B}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RaleighCrime.FSharp", "RaleighCrime.FSharp\RaleighCrime.FSharp.fsproj", "{0B767668-B1FF-40D6-BDC5-645EC56D7AD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{8595B5A1-803A-4749-B8AD-F2EA28565F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8595B5A1-803A-4749-B8AD-F2EA28565F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8595B5A1-803A-4749-B8AD-F2EA28565F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B767668-B1FF-40D6-BDC5-645EC56D7AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B767668-B1FF-40D6-BDC5-645EC56D7AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B767668-B1FF-40D6-BDC5-645EC56D7AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B767668-B1FF-40D6-BDC5-645EC56D7AD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
